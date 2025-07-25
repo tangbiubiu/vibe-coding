@@ -20,20 +20,22 @@
 ## IDE & 代码编辑器
 | Name | 公司 | 地址 | 价格 |
 | --- | --- | --- | --- |
-| Copilot | 微软 & Open AI | - |
-| 🔥Cursor | Anysphere | https://cursor.com/cn |![alt text](image-1.png)|
+| 🔥Cursor | Anysphere | https://cursor.com/cn |![alt text](imgs/image-1.png)|
 | 🔥Gemini CLI | Google | https://www.geminicli.io/zh | 免费 |
-| Claude Code | Anthropic | https://docs.anthropic.com/zh-CN/docs/claude-code/overview | ![alt text](image-2.png) |
-| 🔥Trae | 字节跳动 | https://www.trae.ai/ |![alt text](image-3.png) |
+| 🔥Trae | 字节跳动 | https://www.trae.ai/ |![alt text](imgs/image-3.png) |
 | CodeBuddy | 腾讯 | https://copilot.tencent.com/ | 免费(内测) |
-| Windsurf | codeium | https://codeium.com/windsurf | ![alt text](image-5.png) |
-| Zed | Zed Industries | https://zed.dev/ | ![alt text](image-6.png)
+| Windsurf | codeium | https://codeium.com/windsurf | ![alt text](imgs/image-5.png) |
+| Zed | Zed Industries | https://zed.dev/ | ![alt text](imgs/image-6.png) |
 
 ## CLI
-
+| Name | 公司 | 文档 |
+| --- | --- | --- |
+| 🔥Gemini CLI | Google | https://www.geminicli.io/zh |
+| Claude Code | Anthropic | https://docs.anthropic.com/zh-CN/docs/claude-code/overview | ![alt text](imgs/image-2.png) |
+| Copilot | Microsoft | https://docs.github.com/en/copilot/how-tos/use-copilot-agents/coding-agent |
 
 # LLM Coder
-![编程大模型列表](image.png)
+![编程大模型列表](imgs/image.png)
 数据截止2025年7月
 数据来源：https://zhuanlan.zhihu.com/p/1924429514475278779
 

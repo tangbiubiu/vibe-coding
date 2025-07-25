@@ -29,10 +29,11 @@ Vibe Coding似乎消除了编程技术上的挑战，但它对开发者提出了
 
 
 ## Star History
+
 [![Star History Chart](https://api.star-history.com/svg?repos=tangbiubiu/vibe-coding&type=Date)](https://www.star-history.com/#tangbiubiu/vibe-coding&Date)
 
 ## Contributors
-<a href="https://github.com/eryajf/learn-github/graphs/contributors">
+<a href="https://github.com/tangbiubiu/vibe-coding/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=tangbiubiu/vibe-coding" />
 </a>
 
