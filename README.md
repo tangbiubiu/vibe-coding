@@ -2,9 +2,13 @@
 [![](https://img.shields.io/badge/bilibili-阿禹写代码-ff69b4.svg)](https://space.bilibili.com/172480334) [![](https://img.shields.io/badge/bilibili-hucci写代码-ff69b4.svg)](https://space.bilibili.com/1318868)
 
 有赞曰：
+
 混沌未分，天地蒙乱。上古码神，神工垄断。
+
 众人皆拜，仰止高山。技术门槛，不可亵玩。
+
 终有一朝，Attention出。覆载群生，万人称赞。
+
 Vibe coding，与Agent。众生平等，始创新元。
 
 ## Introduction
