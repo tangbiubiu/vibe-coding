@@ -1,5 +1,5 @@
 # Everything about Vibe Coding
-[![](https://img.shields.io/badge/bilibili-阿禹写代码-ff69b4.svg)](https://space.bilibili.com/172480334) [![](https://img.shields.io/badge/bilibili-hucci写代码-ff69b4.svg)](https://space.bilibili.com/1318868)
+[![](https://img.shields.io/badge/bilibili-码农阿禹-ff69b4.svg)](https://space.bilibili.com/172480334) [![](https://img.shields.io/badge/bilibili-hucci写代码-ff69b4.svg)](https://space.bilibili.com/1318868)
 
 有赞曰：
 
@@ -20,10 +20,11 @@ Vibe Coding似乎消除了编程技术上的挑战，但它对开发者提出了
 4. 面对日新月异种类繁多的Vibe Coding工具，该如何选择。
 5. 如何**经济的**的使用Vibe Coding。
 
-针对以上挑战，我们将Vibe Coding的一切拆解为三个部分：
+针对以上挑战，我们将Vibe Coding的一切拆解为四个部分：
 * **工具**: 这是实现Vibe Coding需要的工具，如IDE, LLM Model等。影响编程的基础能力和经济性。
 * **项目模板**：它定义了整个软件工程的路线、流程。例如需求文档、技术选型、开发原则...
 * **提示词**：它规范了LLM的行为，除了告诉大模型应该怎么做，更重要的是不应该怎么做。用来避免那些我们不希望发生的事情，比如幻觉、偷偷修改测试用例等等...
+* **MCP**：赋予LLM使用工具的能力。
 
 **我们希望根据以上三个部分，为你提供最详细的指导。**
 
