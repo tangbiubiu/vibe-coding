@@ -5,21 +5,45 @@ import tiktoken
 
 
 def num_tokens_from_string(string: str, model_name: str) -> int:
-    """返回str中的token数。"""
+    """返回str中的token数。
+    
+    Args:
+        string: 文本
+        model_name: 模型名称
+
+    Returns:
+        int: token数
+    """
     encoding = tiktoken.encoding_for_model(model_name)
     num_tokens = len(encoding.encode(string))
     return num_tokens
 
 
 def num_tokens_from_markdown(file_path: str, model_name: str) -> int:
-    """返回Markdown文件中的token数。"""
+    """返回Markdown文件中的token数。
+    
+    Args:
+        file_path: 文件路径
+        model_name: 模型名称
+
+    Returns:
+        int: token数
+    """
     with open(file_path, 'r', encoding='utf-8') as file:
         content = file.read()
     return num_tokens_from_string(content, model_name)
 
 
 def num_tokens(dir:str, model_name: str) -> str:
-    """返回目录中（及子目录）每个Markdown文件的token数。以markdown表格形式返回。"""
+    """返回目录中（及子目录）每个Markdown文件的token数。以markdown表格形式返回。
+    
+    Args:
+        dir: 目录路径
+        model_name: 模型名称
+
+    Returns:
+        str: markdown表格
+    """
     table = "| 文件名 | token数 |\n| --- | --- |\n"
     
     for root, _, files in os.walk(dir):
