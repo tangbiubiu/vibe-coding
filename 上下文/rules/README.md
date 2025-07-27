@@ -1,4 +1,4 @@
-# vibe coding提示词
+# RULES
 
 ## 提示词token数量(以cl100k_base记)
 

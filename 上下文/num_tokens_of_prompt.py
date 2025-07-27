@@ -1,4 +1,4 @@
-# 计算prompt中的token数量
+# 计算文本中的token数量，用于经济性考量。
 
 import os
 import tiktoken
@@ -41,4 +41,4 @@ if __name__ == "__main__":
     print(num_tokens_from_markdown("README.md", "gpt-4-0314"))
 
     # 返回目录中每个Markdown文件的token数。
-    print(num_tokens("提示词", "gpt-4-0314"))
+    print(num_tokens("上下文", "gpt-4-0314"))
